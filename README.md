@@ -1,5 +1,5 @@
 
-# Portfolio-Project-aws-data-engineering
+# Portfolio Project aws data engineering
 
 Data analytics Pipeline for e-commerce company.
 # Introduction & Goals
