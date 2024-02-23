@@ -1,7 +1,7 @@
 
-# Title Of Your Project
-Add a catchy title to your project. Something that people immediately know what you are doing
+# Portfolio-Project-aws-data-engineering
 
+Data analytics Pipeline for e-commerce company.
 # Introduction & Goals
 - Introduce your project to the reader
 - Orient this section on the Table of contents
